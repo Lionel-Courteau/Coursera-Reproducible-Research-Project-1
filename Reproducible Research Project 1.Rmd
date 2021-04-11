@@ -18,7 +18,7 @@ output: html_document
 
 
 ##Step 1
-##Code for reading in the dataset and/or processing the data
+##Code for reading in the dataset and processing the data
 ```{r, echo = TRUE}
 activity<-read.csv("activity.csv")
 ```
